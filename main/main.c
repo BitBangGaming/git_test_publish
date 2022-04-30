@@ -2,6 +2,6 @@
 
 void app_main(void)
 {
-    printf("hello worl conflict here d");
-    printf("hello world1");
+  printf("hello world conflict here!!!!! \n");
+  printf("hello world1\n");
 }
